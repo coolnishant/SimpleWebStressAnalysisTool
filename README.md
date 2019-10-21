@@ -25,3 +25,4 @@ For installing, follow the instructions included in the setup zip files.
 This tool uses Multithreading and async-await programming concepts of C# language. All Console apps are made in .NET Core 2.1 and Windows GUI app is made in .NET Framework 4.6.1 Windows Forms app. This tool tries to utilise as much as CPU as possible. Since the number of threads that can be executed simultaneously depends on the CPU and number of cores available, therefore, more powerful CPUs will give better results.
 
 Different Operating Systems implement Multithreading differently, therefore, perdormance of this tool also dependens on the underlying operating system. Generally, Operating systems based on Linux Kernel give better performance.
+- **Update(21st October 2019):** This App can now run on .NET Framework 4.7 and .NET Core 2.2
