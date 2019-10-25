@@ -1,4 +1,4 @@
-# Simple Web Stress Analysis Tool
+# Simple Web Stress Analysis Tool for DoS Attacks
 ## Overview
 
 This is a simple tool to check if the website satisfies the Availability principle of CIA triad i.e. how much web traffic can  a website handle. This tool is available for both Windows Operating Systems and Linux Operating Systems.
